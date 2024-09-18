@@ -21,19 +21,6 @@
 		<lastmod>2024-09-10T21:57:04+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-1/application-form/</loc>
-		<lastmod>2024-09-13T13:24:28+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-8.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/frontiers_in_NP_logo_600px-7.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Fondazione_Alssandro_Volta_long_logo_600px-7.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-1/poster_announcements/</loc>
 		<lastmod>2024-09-18T12:05:46+00:00</lastmod>
 		<image:image>
@@ -187,6 +174,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-1/application-form/</loc>
+		<lastmod>2024-09-18T17:42:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-8.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
