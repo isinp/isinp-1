@@ -17,10 +17,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-1/photo/</loc>
-		<lastmod>2024-09-10T21:57:04+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-1/poster_announcements/</loc>
 		<lastmod>2024-09-18T12:05:46+00:00</lastmod>
 		<image:image>
@@ -178,12 +174,12 @@
 	</url>
 	<url>
 		<loc>https://isinp.github.io/isinp-1/participants/</loc>
-		<lastmod>2024-09-21T14:25:08+00:00</lastmod>
+		<lastmod>2024-09-21T17:08:03+00:00</lastmod>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-6.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/group_picture-scaled.jpg</image:loc>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/group_picture.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
