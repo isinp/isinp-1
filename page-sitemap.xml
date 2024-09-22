@@ -61,22 +61,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-1/program/</loc>
-		<lastmod>2024-09-18T16:50:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Nuovo-programma-Pla.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-1/application-form/</loc>
 		<lastmod>2024-09-18T17:42:01+00:00</lastmod>
 		<image:image>
@@ -183,6 +167,25 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/ISINP-Como-July2017-Poster_800px.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-1/program/</loc>
+		<lastmod>2024-09-22T12:06:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-4.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/CoverPage-Copy_800px.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Nuovo-programma-Pla.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/4-1024x574-1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
