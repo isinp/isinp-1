@@ -133,16 +133,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://isinp.github.io/isinp-1/poster_announcements/</loc>
-		<lastmod>2024-10-03T13:40:59+00:00</lastmod>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/ISINP-Como-July2017-Poster_800px.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://isinp.github.io/isinp-1/participants/</loc>
 		<lastmod>2024-10-03T13:42:56+00:00</lastmod>
 		<image:image>
@@ -186,6 +176,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/villa-sucota-como_400px-2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://isinp.github.io/isinp-1/poster_announcements/</loc>
+		<lastmod>2024-10-04T10:46:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/09/Network_physiology_700px-3.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://isinp.github.io/isinp-1/wp-content/uploads/2024/10/ISINP-2017-Poster_800px.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
